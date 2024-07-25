@@ -1,7 +1,7 @@
 module.exports = {
   title: "HK.Blog",
-  description: "Hello, I'm software developer and this is my personal dev blog",
-  author: "HK Seo",
+  description: "Hello, I'm a software developer and this is my personal dev blog",
+  author: "heeseo",
     siteUrl: "https://heeseo.github.io/",
   links: {
     github: "https://github.com/heeseo",
